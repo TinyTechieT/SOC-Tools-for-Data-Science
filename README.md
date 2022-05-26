@@ -1,4 +1,4 @@
-# SOC-Tools-for-Data-Science
+# SoC-2021-Tools-for-Data-Science
 
 This repository contains all the reading materials and the tasks given by the mentor.
 
